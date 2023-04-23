@@ -6,7 +6,7 @@ Una tarjeta es una página HTML que tiene campos que se rellenan desde el docume
 ## Ejemplos de tarjetas
 ![Tarjetas](cards.webp)
 
-## Como crear una tarjeta
+* [Tarjeta COIT](COIT/README.md)
 
 
 ## License
