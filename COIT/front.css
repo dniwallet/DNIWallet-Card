@@ -1,0 +1,61 @@
+html, body{ margin: 0; }
+body { background: #d5d5d5; }
+html, body, #dniwallet_front { 
+  width: 1024px;
+  height: 652px;
+  position: absolute;
+}
+div {
+  position: absolute;
+}
+span {
+  position: absolute;
+  font-family: Arial Narrow, sans-serif;
+  font-size: 35px;
+  font-weight: normal;
+  letter-spacing: 0;
+  text-align: left;
+  color: #fff;
+}
+#card_front { 
+  left: 0px;
+  top: 0px;
+  width: 1024px;
+  height: 652px;
+  background-image: url(images/front.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#dni_picture { 
+  left: 788px;
+  top: 21px;
+  width: 229px;
+  height: 281px;
+  background-image: url(images/carmen.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#dni_fullname { 
+  left: 54px;
+  top: 435px;
+  width: 944px;
+  height: 66px;
+}
+#coit_dni { 
+  left: 54px;
+  top: 481px;
+  width: 944px;
+  height: 66px;
+}
+#coit_colegiado { 
+  left: 54px;
+  top: 526px;
+  width: 944px;
+  height: 66px;
+}    
+#coit_fecha { 
+  left: 54px;
+  top: 572px;
+  width: 944px;
+  height: 66px;
+}
