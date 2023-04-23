@@ -1,5 +1,5 @@
 # DNIWallet-Card
-Ejemplo de tarjeta para DNI Wallet
+Ejemplos de tarjetas para DNI Wallet
 
 Una tarjeta es una página HTML que tiene campos que se rellenan desde el documento de identidad
 
